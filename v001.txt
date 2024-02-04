@@ -1,0 +1,29 @@
+Date: Jan/04/2024 
+Learning source: https://www.youtube.com/watch?v=PFmuCDHHpwk
+
+===========
+  Thoughts:
+===========
+
+- learning about object oriented programming 
+
+==========
+  Notes:
+==========
+
+01. 4 pillars in OOP: encapsulation, abstraction, inheritance, polymorphism (wtf are those bros)
+02. Why OOP? Because it's more complex than procedural programming which seems more "linear" 
+03. OOP = grouping variables and functions, and call them objects.
+04. in OOP = variables as properties, functions as methods 
+05. So grouping various variables and functions together is called encapsulation? I need to fact check this later using Google Bard 
+06. The problem with procedural programming is that the function has too many parameters, while OOP functions have less parameters (but why?) 
+07. Abstraction, what the fuck is it 
+08. Seems like abstraction is about making something easier to code, you don't have to understand everything that is happening under the hood 
+09. Inheritance, to eliminate redunant code by inheriting from previous class huh 
+10. WHAT THE FUCK IS POLYMORPHISM AHHHHH 
+11. stop using var because of scope problems bro 
+12. A function inside an object is referred to as an method. REMEMBER. 
+13. Key-value pairs in the object is referred to as property. REMEMBER. 
+
+15 minutes of learning, next session I'll extend it to 30 minutes. Therefore it's 1.5 hours of programming, 30 minutes of watching video. Every day. 7 days a week.
+ 
