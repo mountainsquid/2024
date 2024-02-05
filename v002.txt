@@ -1,0 +1,44 @@
+Date: Jan/05/2024 
+Learning source: https://www.youtube.com/watch?v=PFmuCDHHpwk
+
+===========
+  Thoughts:
+===========
+
+01. What did I learn overall? Mapping, 2D array, 
+02. always declare variable type in solidity first 
+03. underscore naming local varibles _hi, _book, _name for easier code reading 
+
+==========
+  Notes:
+==========
+
+01. array = grouped, sorted data 
+02. need to declare the datatype for array... unit[] public uintArray = [1.2.3]
+03. string[] public value 
+04. there is a memory keyword in solidity 
+05. there is a public keyword in solidity 
+06. 2 dimensional arrays ... array within an array 
+07. Learn more about 2D arrays soon-ish  
+08. arrays always start witih 0 index, meaning the first item can call with 0 "index"  
+09. maps = objects? map = key and value first name: bugs   
+10. mapping is a keyword in solidity 
+11. Learn more about constructor function => in solidity 
+12. names[1] = "Adam" (this is a mapping)
+13. Nested arrays, nested mapping is also possible 
+14. Solidity has global variable too, can access that variable anywhere  
+15. Think of conditional as a logical gate, that controls the flow of the loop  
+16. view is a solidity keyword 
+17. Some tutorials are shit at explaining, that's why I'm skipping around videos 
+18. class = blueprint, object = a "real" thing :) 
+19. new keyword construct the object into real life (or at least, into the machine)
+20. parent class, sub class (child)
+ 
+
+
+
+
+
+
+
+
