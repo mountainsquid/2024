@@ -1,0 +1,29 @@
+Sesssion: 03 
+Date: Jan/05/2024 
+Time studied: 30 minutes 
+
+=============================
+What did you mostly studied? 
+=============================
+
+01. so the question is, why do I just watch video and not code? 
+02. because I want to have an overview of what to learn, having a big picture understanding of that concept
+03. then I begin to learn by driling down and writing the code 
+04. 
+
+==========
+  Notes:
+==========
+
+01. Get good at OOP and algo 
+02. For OOP, think method, properties, constructor function 
+03. public and private class variables n shieeet. Gotta learn more about that   
+04. for private variable inside the class, you can't access it outside of that class 
+05. same thing applies for private and public functions too 
+06. method = function attached to a class. simple as. 
+07. we wuz private method n shieeet 
+08. constructor is called and needed when an object (class) is created 
+09. address is a keyword in solidity. 
+10. payable is a keyword in solidity. 
+11. you can send cryptocurrency whenever you call a function (but how?)
+12. msg.value is a global variable in solidity? 
