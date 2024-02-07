@@ -1,0 +1,19 @@
+Sesssion: 05 
+Date: Jan/07/2024 
+Time studied: 15 minutes 
+
+=============================
+What did you mostly studied? 
+=============================
+
+01. what is a closure, learn about later 
+02. a function within a function, interesting 
+03. what is a module in javascript, figure that out.
+04. import a library = module? 
+05. module = a file that exports its own code 
+06. use the code import to import that file code into your editor 
+07. what is promises in javascript? 
+08. bind, call, apply (learn this concept)
+09. what is a primatives in javascript? that's your homework to know 
+
+15 minutes of learning. later, go on google bard and figure out "what is blind, call, apply" and such. 
