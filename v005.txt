@@ -1,0 +1,25 @@
+Sesssion: 06 
+Date: Jan/08/2024 
+Time studied: 15 minutes 
+
+Notes:
+
+01. front end (react.js) vs backend (node.js)
+02. client = machine that is browsing the web 
+03. server = backend that delivers and stores the information to the client 
+04. using backend framework and package manager to make backend programming easy 
+05. expressjs as backend framework 
+06. npm for javascript
+07. how to save data? we use a database. server stores the database. we can use mongoDB
+08. front end sending data to back end = request 
+09. backend server sending data back to the front end = response 
+10. API = application programming interace 
+11. API is one of the most important part of backend coding (but why?)
+12. REST = representational state transfer 
+13. POST = create something 
+14. GET = get something 
+15. DELETE = delete something  
+16. As of 2024 people rent cloud servers like from Amazon, Microsoft and Google 
+17. Javascript is an interpreted language, what does that mean? As oppose to complier 
+18. Dynamic weakly typed =  data types don't become known until runtime 
+19. Javascript is a single thread language, interesting
