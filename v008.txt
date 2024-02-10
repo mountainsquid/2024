@@ -1,0 +1,21 @@
+Session #: v008
+Date: Feb/10/2024
+Time studied: 20 minutes 
+
+01. ETH uses keccak256 hash function 
+02. ETH and BTC use elliptic curve digital signature algo 
+03. Using private key to sign transaction, that's how you do it in crypto 
+04. You have the public key, so anyone can vertify the message that you've sent 
+05. There's signing transaction, and there's sending transaction 
+06. Using YOUR private key to sign a transaction 
+07. Mnemonic phrase is place into the hash function, and that's how your metamask account is created
+08. There's always gas fee so people don't spam and clog up transaction 
+09. Can set gas max limit 
+10. what is gwei in ETH? a measurement of gas fees for eth 
+11. There's 3 option for sending gas, base (mininum), max, max priority (max you're willing to pay)
+12. Current in ETH, base fee gets burnt 
+13. What is EIP-1599 anyways? 
+14. There is always a unique transaction hash on the block 
+15. Block number that it's confirmed on 
+16. Blockchains are resilent, so many nodes running, fuck yeah 
+17. Consensus = mechanism used to agree on the state of the blockchain 
