@@ -1,0 +1,24 @@
+Session #: v010
+Date: Feb/12/2024
+Time studied: 30 minutes  
+
+01. Visibility Specifiers = for one code to be seen by another code  
+02. seems like the levels of Visibility Specifiers is for security purposes 
+03. Visibility Specifiers = access control, lessen attack surface 
+04. Visibility Specifiers also for modular design, encapsulation and gas optimization 
+05. Private vs. Public is fundamental in encapsulation 
+06. 4 different types of visibility: public, external, internal and private
+07. * only functions can be external in solidity 
+08. Remember about external function and public function, we'll get into that later 
+09. What is a constructor? It's a special type of function. But what does it do? 
+10. Constructor is only run once in the contract creation 
+11. Reason why we don't hard code the values but give parameters is because the code becomes more flexible 
+12. Yes there is such thing as contract inheritance in solidity, much like class inheritance 
+13. interface in solidity. smart contracts interacting with smart contracts interacting with smart contracts 
+14. Anyone can interact with the smart contract via their function 
+15. interface = a menu of functions in the smart contract that you can interact with 
+16. An interface function in Solidity is like a blueprint or prototype for a function that other contracts can interact with.
+17. there's abstract contract and regular contract 
+18. declare abstract contract by using the keyword "abstract"
+19. interface function cannot have constructor 
+20. can declare it using interface keyword 
