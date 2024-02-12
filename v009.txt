@@ -1,0 +1,32 @@
+Session #: v009
+Date: Feb/12/2024
+Time studied: 30 minutes  
+
+01. proof of work and proof of stake as symbil resistance 
+02. // SPDX-License-Identifier: MIT (strongly recommended)
+03. Must include pragma solidity ^0.8.8.0; (but why?)
+04. Because "pragma solidity ^0.8.8.0;" tells the compiler which solidity version 
+05. Enables the pragma solidity features 
+06. ^ sign means 'this version and any new future version'
+07. Solidity has the keyword "contract"
+08. Seems like you write that, then you write the functions and variables inside it 
+09. uint = unsigned integer 
+10. uint is non-negative numbers
+11. common uints = int8, uint16, uint32, uint256 etc 
+12. public = variable can be read and written inside and outside contract 
+13. public functions can be interacted by anyone, AKA interacting with the contract from the outside  
+14. public variable is stored on the blockchain so it cost gas huh 
+15. view = read only. They can read what the variable is but not write it 
+16. function getBalance() public view returns (uint)
+17. state variable = persistently stores the data on the blockchain  
+18. there's control access modifiers like public, private, internal 
+19. uint public myPoo (declare variable data type, data visiblility modifier, variable name)
+20. constant and immutable = cannot be reassigned when the value has been assigned  
+21. state variable = store data on the blockchain 
+22. local variable = data used but not stored on the blockchain. 
+23. global variable = already included in solidity itself, no need to import it? 
+24. state variable = found inside the contract but outside of the function  
+25. local  variable = found inside the function and cannot be accessed outside of the function
+26. global variable = msg.sender as a global variable 
+27. local variables cannot be used outside of the function scope because of security, memory management and clarity. 
+28. There is a "Visibility Specifiers" in solidity, what is it, and why use it? 
