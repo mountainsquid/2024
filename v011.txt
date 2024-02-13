@@ -1,0 +1,18 @@
+Session #: v011
+Date: Feb/13/2024
+Time studied: 30 minutes  
+
+01. there is keyword datatype "address"
+02. uint = non-negative integer 
+03. create contract, then create function and variables 
+04. when setting an parameter you need to be specific about the variable type 
+05. private visibility identifier = only callable by the function IN this contract 
+06. view = just view the code, doesn't modified the variable state. Read only  
+07. returns is a keyword in solidity 
+08. Solidity becomes bytecode into the ETH network 
+09. remix has built in VM to test out the smart contract 
+10. What is truffle for solidity? It's a tool for developing smart contract  
+11. solidity has the import keyword  
+12. thirdweb suite as way to build web3 apps 
+13. there's ER20, ERC721, ERC1155 but what are those  
+14. ERC721 = NFT contracts 
