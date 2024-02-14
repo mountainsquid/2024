@@ -1,0 +1,12 @@
+Session #: v013
+Date: Feb/14/2024
+Time studied: 20 minutes  
+
+01. Learn the latest solidity cause many changes between say Solidity 0.4 to 0.8.
+02. Learn straight from solidity documentation
+03. Go on CryptoZombies for practice projects 
+04. joined discords like OpenSea or NFTAcademy (not sponsored I swear) to do jobs for people and build my portfolio
+05. Dev path = exposure to dynamic and static languages, recursion, OOP, computational programming, data structures, time space complexity, design patterns, front and backend web dev, deployment, testing, CI/CD, database management and integration, smart contract dev, smart contract integration with backend, maintenance and monitoring, etc.
+06. Read Mastering Blockchain 3rd Edition by Imran Bashir
+07. https://www.bitdegree.org for solidity course (free)
+08. Figure out how to use map and set in javascript 
