@@ -1,0 +1,26 @@
+Session #: v012	
+Date: Feb/13/2024
+Time studied: 30 minutes  
+
+01. data structure in javascript: arrays, object literals, maps, sets, linked lists, stacks, queues
+02. Abstraction = make something complex, simple
+03. Abstraction in javascript = functions, classes and objects, libraries and modules,  
+04. algo = step by step rules to solve a specific problem or do a task 
+05. I understand variables, control flow, arrays and objects, function and scope 
+06. next up is to learn about handling errors, DOM manipulation, async coding, debugging
+07. ... then solve problems using javascript code 
+08. .. then as mid-coder, learn higher order function, closures, function expressions, private variables with closures, arrow functions, template literals (easy), destructuring, spread operator, modules. 
+09. Manipulating the DOM with Libraries/Frameworks (node.js, web3.js, ether.js)
+10. async coding = promises, async/await, error handling with async code, dealing with callback. 
+11. Data Manipulation and APIs 
+12. Complex JSON objects and arrays 
+13. modular programming with webpack or parcel 
+14. ADVANCED CODER HERE: Master OOP, functional programming, design patterns (singleton, observer, factory)
+15. BEGINNER SOLIDITY CODER: constract structure, functions, data manipulation
+16. Solidity Control Structures, if, loops 
+17. Event handling and exceptions, explore event and emit keywords 
+18. Work with libraries and inheritance 
+19. interacting with external contracts (contract addresses, function invocation, handling return values )
+20. Security best practices 
+21. MID SOLIDITY CODER: inheritance, interfaces, abstract contracts. Contract design patterns (Factory, Proxy, and State Machine patterns)
+22. Gas Optimization and ERC standards 
