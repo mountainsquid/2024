@@ -1,0 +1,8 @@
+Session #: v014
+Date: Feb/17/2024
+Time studied: 30 minutes  
+
+01. functions are first-class objects
+02. you can assign a function as a variable 
+03. you can store a function inside an array? 
+04. constructor function and creating a new class go hand-in-hand 
