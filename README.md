@@ -17,3 +17,8 @@ Things I've learned so far, off the top of my head:
 08. solidity, what is it, public, private, view, internal, external
 09. emit and event keyword in solidity
 
+Feb 18 2024:
+
+01. map and set data structure for javascript
+02. storage, memory and calldata for solidity
+
