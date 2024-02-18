@@ -1,0 +1,20 @@
+Session #: v015
+Date: Feb/18/2024
+Time studied: 30 minutes  
+
+01. functions and objects in javascript, and how they're related 
+02. buttons, forms, menus. Users click on them, they do something 
+03. products, shopping carts, product filtering etc. users interact, it does something etc. You get the idea. 
+04. regular functions = they can do something 
+05. high order functions = they can take other functions and do something with it 
+06. high order functions, return the functions, hence a chain of functions  
+07. high order functions = accept other functions as argument  
+08. Array, map, set in javascript. 
+09. stack (LIFO), queue (FIFO), linked list, tree 
+10. async programming = when things take time 
+11. async = your code still runs, while another code is runng in the background	
+12. a promise says it will do the task. then it will either return with completion or rejection .then() and .catch() 
+13. async/await offers cleaner code 
+14. use map instead of object if you're adding key:value pairs cause its faster 
+15. maps object, object literals ... whats the difference 
+16. today I'm learning about map and set object, feels good man. first time 
