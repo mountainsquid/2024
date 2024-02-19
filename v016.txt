@@ -1,0 +1,11 @@
+Session #: v016
+Date: Feb/19/2024
+Time studied: 30 minutes  
+
+01. pure does not modify any state variable or any external call. 
+02. the returns part of the function type and number values that the function will return -- using pure that it will NOT modify any state 
+03. function add(uint256 a, uint256 b) public pure returns (uint256)
+04. private function, can only be called within the function of the contract that it is defined 
+05. public function in solidity, function can be access or call by other contracts  
+06. constructor is needed in solidity because it initializes the contract itself, like bringing it to life. 
+07. using safemath library to avoid exploits 
