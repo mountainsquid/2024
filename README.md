@@ -22,3 +22,7 @@ Feb 18 2024:
 01. map and set data structure for javascript
 02. storage, memory and calldata for solidity
 
+Feb 20 2024:
+
+01. Finally got around to learning and understanding arrow function
+02. found a youtuber named Tech With Nader, amazing coding teacher with 81 videos on Javascript 
