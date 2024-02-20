@@ -1,0 +1,12 @@
+Session #: v017
+Date: Feb/20/2024
+Time studied: 30 minutes  
+
+01. https://www.youtube.com/watch?v=Em-t5sPdU_w
+02. The best javascript course on Youtube, this guy explained it so simply and clearly 
+03. Why am I re-watching the most basic concepts? Because it gives me a more nuanced understanding. 
+06. It isn't because I don't understand the concept, only because the teacher sucks at explaining. After watching many tutorials, this guy seems the best at explaining including with his flow charts 
+07. for an if statement, the block of code ONLY runs if its TRUE
+08. never skip the fundamentals even if I understand it. 
+09. for(initializer; conditional check; updater)
+10. regular function, function arrow, 
