@@ -1,0 +1,16 @@
+Session #: v018
+Date: Feb/21/2024
+Time studied: 30 minutes  
+
+01. benefits of object literal in javascript: named properties, flexibility, no order of dependence
+02. arrays faster to get data than object literal 
+03. delete keyword in javascript, can delete the property of the object 
+04. promise in javascript = promise something that will complete in the future 
+05. states of a promise: pending, fulfilled, rejected 
+06. but why promise? because it's for async programming 
+07. but why promise? cleaner code, error handling, sequential execution
+08. promise is only in 3 states. 
+09. fulfilled = it has been done 
+10. pending = it's waiting? 
+11. reject = doesn't work 
+12. pre-learning is good because can wrap my head around the concept before writing the code 
