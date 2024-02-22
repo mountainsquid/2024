@@ -1,0 +1,20 @@
+Session #: v019
+Date: Feb/22/2024
+Time studied: 30 minutes  
+
+Thoughts:
+
+Using this learning session to fill in the knowledge gap. Also known as "pre-learning" so I can understand the material without getting confused. Going more indepth with the concept(s)
+
+01. There's a thing called function stack, last in, first out (LIFO)
+02. but why function stack? because managing variables and scope 
+03. returning a function points it as a reference but doesn't execute that function right away 
+04. calling a return function explicitly = assign function to variable and call it 
+05. treat function as value by assigning it to a variable 
+06. assign function to variable and using it as call back function?
+07. what is Higher-order functions: 
+08. what is closures in javascript? 
+09. higher order function = take function as argument (AKA, callback)
+10. reuturn a function (but for what?)
+11. array map method as a higher order function, bet you didn't know that 
+12. call back = passing a function as an argument in another function's parameter 
