@@ -33,10 +33,25 @@ Feb 21 2024:
 
 Feb 22 2024:
 
-01. 
+01. pop(), push(), unshift(), shift() and map() for javascript 
 
 Feb 23 2024: 
 
 01. 
+
+Feb 24 2024: 
+
+Feb 25 2024: 
+
+Feb 26 2024: 
+
+Feb 27 2024: 
+
+Feb 28 2024: 
+
+Feb 29 2024: 
+
+Mar 01 2024: 
+
 
 
