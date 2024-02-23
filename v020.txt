@@ -2,7 +2,7 @@ Session #: v020
 Date: Feb/23/2024
 Time studied: 30 minutes  
 
-Thoughts:
+Thoughts: I could get very far if I simply "pre-learn" 30 minutes every day for a year.
 
 
 01. higher order function, takes a function as an argument or returns a function 
