@@ -1,0 +1,21 @@
+Session #: v020
+Date: Feb/23/2024
+Time studied: 30 minutes  
+
+Thoughts:
+
+
+01. higher order function, takes a function as an argument or returns a function 
+02. Many higher order functions for array map() n shieet 
+03. ternary operator: () ? : don't forget, as if statement that is easy to write 
+04. condition ? expression_if_true : expression_if_false; 
+05. array has index, object has keys 
+06. primitive datatype = simple data type 
+07. reference = bigger data type (array, objects)
+08. primitive = goes into a stack 
+09. reference = goes into a heap 
+10. reference = puts a reference to the stack 
+11. for (i = 0; i < 10; i++)
+12. scope, what is in between the {}. {this is a scope} 
+13. the variable inside a function is a local function that can only be used or existed in that function and not outside of it 
+14. when debugging think of what is executing and in what order 
