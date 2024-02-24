@@ -1,0 +1,32 @@
+Session #: v022
+Date: Feb/25/2024
+Time studied: 30 minutes  
+
+Thoughts: 
+
+I'm doing socratic learning, where you just ask questions. Good questions. And learn the things in a deeper level. Finaly I can grasp what closure and hoisting is. Now I just need to learn about it code wise and code it out. 
+
+01. write in pseduo code before you write the real code 
+02. event listener = function that waits for an event (DOM) then is triggered and invoked 
+03. components of eventlistener = user interaction, DOM event, custom event (what happens when ther is a click)
+04. addEventListener() method is the most common 
+05. functions can be anon
+06. anon functions as callback functions and event listeners 
+07. I need to learn what is hoisting and closure in javascript 
+08. hoisting = lifting variables and functions at top of the scope during declaration  
+09. declaration = reserve memory space for that variable or function 
+10. Initialization = assign value to that variable or function
+11. Declaration precedes initialization that makes sense 
+12. expression is a combination of values, variables, operators, and function calls that evaluates to a single result
+13. anon function as a once and done type of thing 
+14. constructor = Used to create new objects and initialize their properties and methods.
+15. anon function = Represent unnamed functions, often used for one-time tasks or assigned to variables/objects.
+16. inner and outer functions = nested functions  
+15. closure = can access the outer function's variables and functions, and preserves the state and environment of the outer function that the inner function could use 
+16. 
+
+
+
+
+
+
