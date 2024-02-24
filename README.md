@@ -35,11 +35,7 @@ Feb 22 2024:
 
 01. pop(), push(), unshift(), shift() and map() for javascript 
 
-Feb 23 2024: 
-
-01. 
-
-Feb 24 2024: 
+Feb 24 2024: learning hoist, closure, DOM 
 
 Feb 25 2024: 
 
