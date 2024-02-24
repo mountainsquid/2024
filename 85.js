@@ -7,6 +7,7 @@
 // but why DOM? make the website interactive 
 // DOM works across different browsers 
 // the internet without the DOM was boring 
+// learning about DOM 
 
 // in the HTML page, created <p id = "hello">THIS myPagraph original message getElementbyID</p>
 // then I changed the color of the paragraph by using this code below  
