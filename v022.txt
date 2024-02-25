@@ -1,0 +1,20 @@
+01. difference between class and prototypes?
+02. what is functional programming
+03. learn more design patterns 
+04. learn MVC (Model-View-Controller) 
+05. learn to test your code 
+06. go through harvard cs50
+07. learn and solve algos 
+08. books to read: 'you don't know javascript' 'eloquent javascript' 'effective javascript' 'javascript design pattern'
+09. learn async javascript 
+10. 10 minutes interview questions every day for a year 
+11. default parameters, spread operators, rest parameters  
+12. what is proto inheritance in javascript? 
+13. what is call, apply, blind in JS 
+14. what are modules, which are common ones? 
+15. what is proxy and reflection and symbols in JS (advanced)
+16. what are recursion? 
+17. whats web workers and generators? 
+18. read his work: https://exploringjs.com/
+ 
+
