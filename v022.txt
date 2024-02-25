@@ -1,3 +1,7 @@
+Session #: v022
+Date: Feb/25/2024
+Time studied: 30 minutes  
+
 01. difference between class and prototypes?
 02. what is functional programming
 03. learn more design patterns 
