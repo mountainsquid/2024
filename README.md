@@ -37,9 +37,9 @@ Feb 22 2024:
 
 Feb 24 2024: learning hoist, closure, DOM 
 
-Feb 25 2024: 
+Feb 25 2024: What is OOP, learning about the big 4 concepts 
 
-Feb 26 2024: 
+Feb 26 2024: creating class, that's about it. Also studied solidity struct 
 
 Feb 27 2024: 
 
