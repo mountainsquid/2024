@@ -1,0 +1,22 @@
+Session #: v023
+Date: Feb/27/2024
+Time studied: 30 minutes 
+
+01. class keyword, constructor keyword. First create the class, then the constructor. Don't forget. 
+02. var userone = new user() // remember this syntax
+03. class user {} 
+04. constructor() {}
+05. const john = new Person("John", 30); (this line calls the constructor)
+06. const john = new Person("John", 30) <-- creating new instance 
+07. there's class methods, learn how to use that using dot notation :) 
+08. define your method outside of the constructor, don't forget 
+09. there is something called method chaining, learning about that 
+10. OOP is basically creating a blueprint, then creating instances (copies of it) 1000x times 
+11. inheritance = creating a new class from an existing class 
+12. but why inheritance? because you can reuse existing code without rewriting it 
+13. abstraction helps with security by using private or internal keywords
+14. the base object, then there's the child object 
+15. polymorphism = 1 task, different way
+16. constructor function = a function that creates objects 
+
+
