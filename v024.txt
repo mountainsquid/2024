@@ -1,0 +1,16 @@
+Session #: v024
+Date: Feb/28/2024
+Time studied: 30 minutes 
+
+01. create parent class (base call?)
+02. then use a subclass or child class using extend keyword 
+03. class Dog extends Animal {} 
+05. when creating a subclass, need to create a constructor for that subclass  
+06. what the heck is prototype chain?
+07. OOP = writing code at scale, that's an interesting way to think about it 
+08. coding is about getting that "relevant functionality" in that "relevent data"
+09. javascript doesn't offer true class, only prototypes, which is like 
+10. syntactic suga = making an language easier to read, write and understand 
+11. learn more about destructuring and mapping in javascript 
+12. expression = think of it like a math equation, it has variables and operators that produces an outcome 
+13. statement = focus on execution of actions, like variable declaration, function calls, loops and more ... 
