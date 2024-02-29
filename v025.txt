@@ -1,0 +1,16 @@
+//SPDX-License-Identifier: UNLICENSED
+// Date: Feb 29 2024
+// Session: 30 minutes
+
+pragma solidity ^0.8.0;
+
+// ETH state -> EVM -> ETH eco-system 
+// there is an import keyword to import another contract .sol into your current .sol file 
+// but why use the import keyword? because it keeps the code organized
+// and you can use inheritance to inherit the functionality of the other contract 
+// solidity is about contracts interacting with other contracts 
+// syntax for inheritance is: contract A is B 
+// yup it's that simple 
+// bool public hello; 
+// invisibility after the datatype, interesting huh 
+// 
