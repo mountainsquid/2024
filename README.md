@@ -17,37 +17,25 @@ Things I've learned so far, off the top of my head:
 08. solidity, what is it, public, private, view, internal, external
 09. emit and event keyword in solidity
 
-Feb 18 2024:
-
-01. map and set data structure for javascript
-02. storage, memory and calldata for solidity
-
-Feb 20 2024:
-
-01. Finally got around to learning and understanding arrow function
-02. found a youtuber named Tech With Nader, amazing coding teacher with 81 videos on Javascript
-
-Feb 21 2024:
-
-01. Learn about how to come async, let's f*cking go.
-
-Feb 22 2024:
-
-01. pop(), push(), unshift(), shift() and map() for javascript 
-
+Feb 18 2024: map and set data structure for javascript. Storage, memory and calldata for solidity
+Feb 20 2024: finally got around to learning and understanding arrow function
+Feb 21 2024: Learn about how to come async, let's f*cking go.
+Feb 22 2024: pop(), push(), unshift(), shift() and map() for javascript 
 Feb 24 2024: learning hoist, closure, DOM 
-
 Feb 25 2024: What is OOP, learning about the big 4 concepts 
-
 Feb 26 2024: creating class, that's about it. Also studied solidity struct 
-
-Feb 27 2024: 
-
-Feb 28 2024: 
-
-Feb 29 2024: 
+Feb 29 2024: 29 days of straight coding in javascript and solidity. keep going. I'm learning OOP now  
 
 Mar 01 2024: 
+Mar 02 2024: 
+Mar 03 2024: 
+Mar 04 2024: 
+Mar 05 2024: 
+Mar 06 2024: 
+Mar 07 2024: 
+Mar 08 2024: 
+Mar 09 2024: 
+Mar 10 2024: 
 
 
 
