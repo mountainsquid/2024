@@ -1,0 +1,19 @@
+Session #: v026
+Date: Mar/01/2024
+Time studied: 30 minutes 
+
+01. what's good building shit on ETH? DeFi, NFT, dapps, feels good man 
+02. smart contracts + EVM = build something f*cking cool 
+03. opcodes = excuting smart contracts in ETH 
+04. bytecode = stored on the blockchain 
+05. smart contract = stored at a specific address 
+06. smart contract compiled into EVM bytecode 
+07. byte code goes into the blockchain that is good stuff 
+08. smart contract = account somewhere in the blockchain   
+09. what is the contract ABI again in solidty?  
+10. RPC (Remote Procedure Call) = bridge betweeen metamask and blockchain  
+11. in solidity, can use function to update and assign varibles 
+12. clicking on a function (calling) cost gas, it's considered a transaction  
+13. can use remix to deploy contract into the ETH blockchain for real 
+14. every single state change is a transaction on ETH  
+15. node = machine that is running and validating ETH blockchain 
