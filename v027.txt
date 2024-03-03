@@ -1,0 +1,29 @@
+Session #: v027
+Date: Mar/03/2024
+Time studied: 30 minutes 
+
+01. Here's a list of concepts I need to learn 
+02. require in solidity 
+03. modifier in solidity 
+04. address data type 
+05. reference data types
+06. fixed type arrays 
+07. dynamic types arrays 
+08. calldata vs memory 
+09. storage vs memory 
+10. struct, array of struct 
+11. enum, mapping, mapping with arrays 
+12. mapping with struct, nested mapping 
+13. global variables, transfer eth
+14. mapping in solidity = key value pairs, like dictionary
+15. mapping always stored in permanent storage  
+16. ues mapping for storing votes, balanaces and such 
+17. mapping syntax: mapping(address => string) 
+18. like this... : mapping(uint256 => string) public courseCodes;
+19. use struct for financial contracts, supply chain, decen marketplace
+20. reference data types vs value types in solidity 
+21. reference data types points to where the datatype is stored in memory
+22. enum = datatype 
+22. learn enum syntax and "enum members"
+23. in solidity, enum is a user defined datatype and not a data structure 
+24.
