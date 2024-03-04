@@ -13,3 +13,7 @@ Time studied: 30 minutes
 09. but remember there is inherited function and you can over ride it
 10. there's more, a contract can restrict what the child class accesses using visibility modifer  
 
+Thoughts:
+
+Finally got around to coding class in solidity, feels good man 
+
