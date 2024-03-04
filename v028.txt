@@ -1,0 +1,15 @@
+Session #: v028
+Date: Mar/04/2024
+Time studied: 30 minutes 
+
+01. inheritance, inherit function, over-ride function 
+02. passing parameter to parent constructor 
+03. there is inheritance in solidity
+04. there is multi-level inheritance in solidity 
+05. there is also single level inheritance, not hard to grasp 
+06. contract b is contract a, contract c is contract b 
+07. but why inheritance? because programmers are lazy and don't want to rewrite code
+08. the base contract (parent class) is the first class, then it's the child class
+09. but remember there is inherited function and you can over ride it
+10. there's more, a contract can restrict what the child class accesses using visibility modifer  
+
