@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    body {
+      background-color: #000000;
+      color: #ffffff;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      overflow: hidden;
+      margin: 0;
+    }
+
+    .neon-text {
+      font-size: 3em;
+      text-align: center;
+      animation: blink 1s infinite;
+      text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000, 0 0 15px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff0000;
+    }
+
+    .clock {
+      font-size: 2em;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    @keyframes blink {
+      0% { opacity: 1; }
+      50% { opacity: 0.5; }
+      100% { opacity: 1; }
+    }
+  </style>
+<title>Neon Blinking Text with Clock and Date</title>
+</head>
+<body>
+<div id="datetime" class="clock"></div>
+<script>
+    function updateDateTime() {
+      const date = new Date();
+      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+
+      const today = date.toLocaleDateString("en-US", options);
+      const hours = date.getHours() < 10 ? "0" + date.getHours() : date.getHours();
+      const minutes = date.getMinutes() < 10 ? "0" + date.getMinutes() : date.getMinutes();
+      const seconds = date.getSeconds() < 10 ? "0" + date.getSeconds() : date.getSeconds();
+
+      document.getElementById("datetime").textContent = `${today} - ${hours}:${minutes}:${seconds}`;
+    }
+
+    updateDateTime();
+    setInterval(updateDateTime, 1000);
+
+  function getRandomQuote() {
+    const quotes = [
+      "Accept everything just the way it is.",
+      "Do not seek pleasure for its own sake.",
+      "Do not, under any circumstances, depend on a partial feeling.",
+      "Think lightly of yourself and deeply of the world.",
+      "Be detached from desire your whole life long.",
+      "Do not regret what you have done.",
+      "Never be jealous.",
+      "The ultimate aim of martial arts is not having to use them.",
+      "Think yourself.",
+      "You must understand that there is more than one path to the top of the mountain.",
+    ];
+
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    const randomQuote = quotes[randomIndex];
+    return randomQuote;
+  }
+
+  window.onload = function () {
+    const quoteDiv = document.createElement("div");
+    quoteDiv.textContent = getRandomQuote();
+    document.body.appendChild(quoteDiv);
+  };
+
+  </script>
+</body>
+</html>
