@@ -1,0 +1,15 @@
+import os
+
+# Define the path to your Downloads directory
+downloads_directory = os.path.expanduser("~/Downloads")
+
+# Define the file name
+file_name = "hi.txt"
+# Create the full file path
+file_path = os.path.join(downloads_directory, file_name)
+
+# Write some content to the file (for example, "Hello, World!")
+with open(file_path, 'w') as file:
+    file.write("Hello, World!")
+
+print(f"File '{file_name}' created at: {file_path}")
